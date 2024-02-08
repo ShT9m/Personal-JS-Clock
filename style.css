@@ -1,0 +1,7 @@
+.clock {
+  background-color: antiquewhite;
+  font-size: xx-large;
+  margin: 0.5em;
+  padding: 0.5em;
+  position: fixed;
+}
